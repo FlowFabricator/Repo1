@@ -1,3 +1,23 @@
+
+<h2 align="left" style="padding-left: 20px; padding-bottom: 10px;">📊 GitHub Stats:</h2>
+<div align="center" style="font-size: xx-large;">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodderPrince&show_icons=true&count_private=true&include_all_commits=true&theme=vision-friendly-dark&bg_color=0,141E30,243B55&title_color=FFA500&icon_color=FFD700" 
+  alt="GitHub Stats" width="1100" style="height: 400px; object-fit: cover;"/>
+</div>
+
+<h2 align="left">📊 GitHub Stats:</h2>
+<div align="center">
+    <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodderPrince&theme=github_dark_colorblind" />
+</div>
+
+
+<h2 align="left">📊 GitHub Stats:</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodderPrince&show_icons=true&count_private=true&include_all_commits=true&theme=vision-friendly-dark&bg_color=0,141E30,243B55&title_color=FFA500&icon_color=FFD700&custom_title=GitHub+Stats" 
+  alt="GitHub Stats" width="1100" style="height: 400px; object-fit: cover;"/>
+</div>
+
+
 # Theme 1
 <h2 align="left">Github Stats:</h2>
 
@@ -224,3 +244,31 @@
     <img align="right" width="47%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CodderPrince&theme=synthwave&utcOffset=8" />
 </a>
 </div>
+
+
+# Theme 11
+<h2 align="left">📊 GitHub Stats:</h2>
+
+<p align="center">
+    <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodderPrince&theme=gruvbox" />
+</p>
+<div>
+<a href="http://www.github.com/CodderPrince">
+    <img width="47%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodderPrince&theme=gruvbox" />
+</a>
+<a href="http://www.github.com/CodderPrince">
+    <img align="right" width="47%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodderPrince&theme=gruvbox" />
+</a>
+<a href="http://www.github.com/CodderPrince">
+    <img width="47%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodderPrince&theme=gruvbox" />
+</a>
+<a href="http://www.github.com/CodderPrince">
+    <img align="right" width="47%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CodderPrince&theme=gruvbox&utcOffset=8" />
+</a>
+</div>
+
+<!-- Replace GitHub Octocat Icon -->
+<div align="center">
+    <img src="YOUR_CUSTOM_ICON_URL" alt="New Icon" width="120px">
+</div>
+
